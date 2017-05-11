@@ -1,6 +1,7 @@
-### Center for Assessment: Colloquium 2018: A Farewell to Assessent
-#### May 23-24, Limelight Hotel, Ketchum, Idaho
+### Center for Assessment: Colloquium 2018: A Farewell to Assessment
+#### May 23-24, 2018, [Limelight Hotel, Ketchum - Sun Valley, Idaho](https://www.limelighthotels.com/ketchum)
 
-### Open Educational Resources in Education Assessment and Accountability
+---
 
+#### Working Concept: Open Educational Resources in Education Assessment and Accountability
 #### [Project Tasks & Planning](https://github.com/orgs/CenterForAssessment/projects/2)
