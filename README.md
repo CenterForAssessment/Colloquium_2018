@@ -6,3 +6,5 @@
 #### Working Concept: Open Educational Resources in Education Assessment and Accountability
 #### [Project Tasks & Planning](https://github.com/orgs/CenterForAssessment/projects/2)
 #### [Colloquium Website](https://centerforassessment.github.io/Colloquium_2018/)
+
+Unless otherwise noted, all colloquium materials are [CC BY-SA](https://github.com/CenterForAssessment/Colloquium_2018/blob/master/LICENSE.md) <img src="/public/CC-BY-SA.svg" style="width: 50%;" />
