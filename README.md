@@ -1,2 +1,6 @@
-# Colloquium_2018
-Center for Assessment repository for the 2018 Colloquium. May 23-24, Ketchum, Idaho
+## Colloquium 2018
+
+### Open Educational Resources in Education Assessment and Accountability
+### May 23-24, Limelight Hotel, Ketchum, Idaho
+
+[Project Tasks & Planning](https://github.com/orgs/CenterForAssessment/projects/2)
