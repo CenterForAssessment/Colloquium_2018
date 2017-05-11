@@ -11,7 +11,8 @@ Unless otherwise noted, all colloquium materials are [CC BY-SA](https://github.c
 
 ---
 
-<a href="https://github.com/CenterForAssessment/Colloquium_2018/blob/master/LICENSE.md">
-    <img src="https://centerforassessment.github.io/Colloquium_2018/public/CC-BY-SA.svg"
-    style="width: 25%;">
-</a>
+<p align="center">
+    <a href="https://github.com/CenterForAssessment/Colloquium_2018/blob/master/LICENSE.md">
+        <img src="https://centerforassessment.github.io/Colloquium_2018/public/CC-BY-SA.svg" style="width: 25%;">
+    </a>
+</p>
