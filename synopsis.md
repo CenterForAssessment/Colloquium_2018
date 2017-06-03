@@ -14,6 +14,7 @@ Each year, professional staff at the Center for Assessment identify an area in w
 1.	Develop an understanding of and providing the rationale for the concept of “open”
 
     a.	Provide definitions and examples of terms such as “openness,” “open source,” and “open educational resources”
+
     b.	Describe the requirements for building the “legal infrastructure” for open educational resources
 
 2.	Investigate the confluence between open educational resources and the areas of educational assessment and accountability.
