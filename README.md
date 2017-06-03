@@ -1,4 +1,4 @@
-<h2 align="center" markdown="1">Re-imagining Educational Assessment and Accountability in an Open Source World</h3>
+<h2 align="center" markdown="1">Re-imagining Assessment and Accountability in an Open Source World</h3>
 <h3 align="center" markdown="1">2018 Colloquium – <a href=https://www.limelighthotels.com/ketchum>Limelight Hotel, Ketchum/Sun Valley, Idaho</a></h3>
 <h3 align="center" markdown="1">May 22-23, 2018</h3>
 
