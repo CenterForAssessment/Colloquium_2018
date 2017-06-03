@@ -1,17 +1,13 @@
-<h3 align="center" markdown="1">This is a level 3 heading.</h3>
+<h2 align="center" markdown="1">Toward a Definition of Open for Educational Assessment & Accountability</h3>
+<h3 align="center" markdown="1">2018 Colloquium – Sun Valley, Idaho</h3>
+<h3 align="center" markdown="1">May 22-23, 2018</h3>
 
-# Toward a Definition of Open for Educational Assessment & Accountability
-
-## 2018 Colloquium – Sun Valley, Idaho
-
-## May 22-23, 2018
-
-### Center for Assessment Colloquium
+#### Center for Assessment Colloquium
 
 Each year, professional staff at the Center for Assessment identify an area in which is outside of our current areas of expertise, but is likely to have a significant impact on the field and our work in the near future.  Over the course of the year, Center associates gather information on the topic, identify and interact with experts in the field, and develop a set of critical questions to be answered.  The culmination of this effort is a two-day meeting in May in which experts are convened to share information and engage in discussions with Center staff.
 
 
-### Goals for the 2018 Colloquium
+#### Goals for the 2018 Colloquium
 
 1.	Develop an understanding of and providing the rationale for the concept of “open”
 
