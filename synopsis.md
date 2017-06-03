@@ -12,6 +12,7 @@ Each year, professional staff at the Center for Assessment identify an area in w
 ## Goals for the 2018 Colloquium
 
 1.	Develop an understanding of and providing the rationale for the concept of “open”
+
     a.	Provide definitions and examples of terms such as “openness,” “open source,” and “open educational resources”
     b.	Describe the requirements for building the “legal infrastructure” for open educational resources
 
