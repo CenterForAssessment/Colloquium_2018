@@ -1,6 +1,4 @@
-<p align="center">
-<h3>This is a level 3 heading.</h3>
-</p>
+<p align="center"> This is a level 3 heading. </p>
 
 # Toward a Definition of Open for Educational Assessment & Accountability
 
