@@ -1,4 +1,4 @@
-<p style="text-align: center;"> TESTING </p>
+<p style="center"> TESTING </p>
 
 
 # Toward a Definition of Open for Educational Assessment & Accountability
