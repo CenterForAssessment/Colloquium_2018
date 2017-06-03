@@ -1,6 +1,6 @@
 <h2 align="center" markdown="1">Toward a Definition of Open for Educational Assessment & Accountability</h3>
-<h3 align="center" markdown="1">2018 Colloquium – Sun Valley, Idaho</h3>
-<h3 align="center" markdown="1"><a href=https://www.limelighthotels.com/ketchum>Limelight Hotel</a></h3>
+<h3 align="center" markdown="1">2018 Colloquium – <a href=https://www.limelighthotels.com/ketchum>Limelight Hotel, Ketchum/Sun Valley, Idaho</a></h3>
+<h3 align="center" markdown="1"><a href=https://www.limelighthotels.com/ketchum>Limelight Hotel, Ketchum/Sun Valley, Idaho</a></h3>
 <h3 align="center" markdown="1">May 22-23, 2018</h3>
 
 #### Center for Assessment Colloquium
@@ -29,3 +29,12 @@ Each year, professional staff at the Center for Assessment identify an area in w
     b.	Planning a smooth transition
 
     c.	Reflecting on the potential for transforming assessment and accountability
+
+
+---
+
+<p align="center">
+    <a href="https://github.com/CenterForAssessment/Colloquium_2018/blob/master/LICENSE.md">
+        <img src="https://centerforassessment.github.io/Colloquium_2018/public/CC-BY-SA.svg" style="width: 25%;"/>
+    </a>
+</p>
