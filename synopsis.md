@@ -1,3 +1,6 @@
+<p style="text-align: center;"> TESTING </p>
+
+
 # Toward a Definition of Open for Educational Assessment & Accountability
 
 ## 2018 Colloquium – Sun Valley, Idaho
