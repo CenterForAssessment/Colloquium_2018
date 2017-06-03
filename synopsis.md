@@ -18,10 +18,15 @@ Each year, professional staff at the Center for Assessment identify an area in w
     b.	Describe the requirements for building the “legal infrastructure” for open educational resources
 
 2.	Investigate the confluence between open educational resources and the areas of educational assessment and accountability.
+
     a.	Establish working definitions of open assessment and open accountability
+
     b.	Create an awareness and understanding of the state-of-the-art in open educational resources as well as open educational assessment and accountability resources
 
 3.	Develop an understanding of how “open” transforms what we at the Center do and how we at the Center do it.
+
     a.	Understanding barriers and challenges to transitioning from the current state to one built around open educational resources
+
     b.	Planning a smooth transition
+
     c.	Reflecting on the potential for transforming assessment and accountability
