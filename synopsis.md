@@ -1,5 +1,6 @@
 <h2 align="center" markdown="1">Toward a Definition of Open for Educational Assessment & Accountability</h3>
 <h3 align="center" markdown="1">2018 Colloquium – Sun Valley, Idaho</h3>
+<h3 align="center" markdown="1"><a href=https://www.limelighthotels.com/ketchum>Limelight Hotel</a></h3>
 <h3 align="center" markdown="1">May 22-23, 2018</h3>
 
 #### Center for Assessment Colloquium
