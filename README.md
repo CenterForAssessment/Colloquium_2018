@@ -1,4 +1,4 @@
-<h2 align="center" markdown="1">Toward a Definition of Open for Educational Assessment & Accountability</h3>
+<h2 align="center" markdown="1">Re-imagining Assessment and Accountability in an Open Source World</h3>
 <h3 align="center" markdown="1">2018 Colloquium – <a href=https://www.limelighthotels.com/ketchum>Limelight Hotel, Ketchum/Sun Valley, Idaho</a></h3>
 <h3 align="center" markdown="1">May 22-23, 2018</h3>
 
@@ -18,7 +18,7 @@ with experts in the field, and develop a set of critical questions to be answere
 
 2. Investigate the confluence between open educational resources and the areas of educational assessment and accountability.
 
-    a.	Establish working definitions of open assessment and open accountability.
+    a.	Move toward establishing working definitions of open assessment and open accountability.
 
     b.	Create an awareness and understanding of the state-of-the-art in open educational resources as well as open educational assessment and accountability resources.
 
