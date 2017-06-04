@@ -35,9 +35,14 @@ with experts in the field, and develop a set of critical questions to be answere
 4. Model open development with the colloquium itself:
 
     a. Create a [GitHub](https://github.com/) repository and an associated [Github Pages](https://pages.github.com/) website to hold/show all content related to the
-    colloquium. [Colloquium 2018 Repository](https://github.com/CenterForAssessment/Colloquium_2018)
+    colloquium.
 
-    b. Work with presenters so that all materials provided are open source (or help convert them).
+        * [Colloquium 2018 Repository](https://github.com/CenterForAssessment/Colloquium_2018)
+        * [Colloquium 2018 Website](https://centerforassessment.github.io/Colloquium_2018/)
+
+    b. Use [GitHub Projects](https://help.github.com/articles/about-project-boards/) to organize tasks associated with setting up the colloquium.
+
+    c. Work with presenters so that all materials provided are open source (or help convert them).
 
 
 ---
