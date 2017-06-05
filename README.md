@@ -46,6 +46,6 @@ with experts in the field, and develop a set of critical questions to be answere
 
 <p align="center">
     <a href="https://github.com/CenterForAssessment/Colloquium_2018/blob/master/LICENSE.md">
-        <img src="https://centerforassessment.github.io/Colloquium_2018/public/CC-BY-SA.svg" style="max-width: 10%;"/>
+        <img src="https://centerforassessment.github.io/Colloquium_2018/public/CC-BY-SA.svg" style="width: 10%;"/>
     </a>
 </p>
