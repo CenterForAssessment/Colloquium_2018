@@ -10,7 +10,7 @@ with experts in the field, and develop a set of critical questions to be answere
 
 #### Goals for the 2018 Colloquium
 
-1. Develop an understanding of and providing the rationale for the concept of “open”
+1. Develop an understanding of and provide a rationale for the concept of “open”
 
     a.	Provide definitions and examples of terms such as “open source”, “open educational resources”, and “openness”.
 
