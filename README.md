@@ -24,7 +24,7 @@ with experts in the field, and develop a set of critical questions to be answere
 
 3. Develop an understanding of how “open” transforms what we at the Center do and how we at the Center do it.
 
-    a.	Understanding barriers and challenges to transitioning from the current state to one built around open educational resources.
+    a.	Understanding barriers and challenges to transitioning from the current state of assessment and accountability to one built around open educational resources.
 
     b.	Understanding business models related to open source and open educational resources.
 
@@ -46,6 +46,6 @@ with experts in the field, and develop a set of critical questions to be answere
 
 <p align="center">
     <a href="https://github.com/CenterForAssessment/Colloquium_2018/blob/master/LICENSE.md">
-        <img src="https://centerforassessment.github.io/Colloquium_2018/public/CC-BY-SA.svg" style="width: 10%;"/>
+        <img src="https://centerforassessment.github.io/Colloquium_2018/public/CC-BY-SA.svg" width="80%"/>
     </a>
 </p>
