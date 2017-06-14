@@ -49,3 +49,5 @@ with experts in the field, and develop a set of critical questions to be answere
         <img src="https://centerforassessment.github.io/Colloquium_2018/public/CC-BY-SA.svg" width="10%"/>
     </a>
 </p>
+
+<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license" target="_blank" title="This track is released under a CC cc-by-nc-sa license. Click for details." class="license__type sc-link-dark"><span class="sc-license-icon sc-license-icon-cc-by-nc-sa license__icon"></span> Creative Commons License</a>
