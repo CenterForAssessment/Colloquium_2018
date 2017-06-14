@@ -4,13 +4,13 @@
 
 #### Center for Assessment Colloquium
 
-Each year, professional staff at the [Center for Assessment](http://www.nciea.org/) identify an area which is outside of our current areas of expertise, but is likely to have a significant impact on the field and our work in the near future.  Over the course of the year, Center associates gather information on the topic, identify and interact
+Each year, professional staff at the [Center for Assessment](http://www.nciea.org/) identify a topic which is outside of our current areas of expertise, but is likely to have a significant impact on the field and our work in the near future.  Over the course of the year, Center associates gather information on the topic, identify and interact
 with experts in the field, and develop a set of critical questions to be answered.  The culmination of this effort is a two-day meeting in May in which experts are convened to share information and engage in discussions with Center staff.
 
 
 #### Goals for the 2018 Colloquium
 
-1. Develop an understanding of and providing the rationale for the concept of “open”
+1. Develop an understanding of and provide a rationale for the concept of “open”
 
     a.	Provide definitions and examples of terms such as “open source”, “open educational resources”, and “openness”.
 
