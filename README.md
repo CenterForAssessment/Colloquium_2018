@@ -28,7 +28,7 @@ with experts in the field, and develop a set of critical questions to be answere
 
     b.	Understanding business models related to open source and open educational resources.
 
-    c.	Planning a smooth transition.
+    c.	Planning a smooth transition between proprietary and open.
 
     d.	Reflecting on the potential for transforming assessment and accountability.
 
