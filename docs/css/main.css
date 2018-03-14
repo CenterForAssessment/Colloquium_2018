@@ -404,7 +404,10 @@ nav.shrink {
   min-height: 180px;
   padding-left: 180px;
   margin-bottom: 30px;
-  border-bottom: 1px dashed #e7e7e7;
+  border-bottom: 1px dashed rgba(0, 0, 0, 0.1);
+}
+.speakers-list {
+  margin-bottom: 30px;
 }
 .speaker-photo {
   position: absolute;
