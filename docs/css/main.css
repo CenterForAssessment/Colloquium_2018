@@ -855,8 +855,7 @@ nav {
 .content a {
   color: #4db757;
 }
-.content a:hover,
-.content a:focus {
+.content a:hover {
   color: #204e25;
   text-decoration: none;
 }
