@@ -434,6 +434,27 @@ nav.shrink {
   font-size: 1.4em;
 }
 /* =============================================================================
+   EXPLORE
+   ========================================================================== */
+.explore-item {
+  position: relative;
+  min-height: 180px;
+  padding-left: 180px;
+  margin-bottom: 30px;
+  border-bottom: 1px dashed rgba(0, 0, 0, 0.1);
+}
+.explore-list {
+  margin-bottom: 30px;
+}
+.explore-photo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 120px;
+  height: 120px;
+}
+/* =============================================================================
    SCHEDULE
    ========================================================================== */
 .schedule-tbl {
@@ -672,6 +693,18 @@ nav.shrink {
   .speakers-bio {
     display: none;
   }
+  /* explore */
+  .explore-item {
+    min-height: 70px;
+    padding-left: 70px;
+  }
+  .explore-photo {
+    width: 50px;
+    height: 50px;
+  }
+  .explore-bio {
+    display: none;
+  }
 }
 @media only screen and (max-width: 321px) {
   .logo-name {
@@ -858,7 +891,19 @@ nav {
   -o-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
 }
+.explore-photo .photo {
+  border-radius: 10%;
+  box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.2);
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -ms-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
 .speakers-item:hover .speaker-photo .photo {
+  box-shadow: 0 0 0 6px rgba(0, 0, 0, 0.3);
+}
+.explore-item:hover .explore-photo .photo {
   box-shadow: 0 0 0 6px rgba(0, 0, 0, 0.3);
 }
 .speakers-stuff {
@@ -954,6 +999,9 @@ nav {
 @media only screen and (max-width: 480px) {
   /* speakers */
   .speaker-photo .photo {
+    box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.07);
+  }
+  .explore-photo .photo {
     box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.07);
   }
   .speech-title {
