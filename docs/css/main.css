@@ -920,7 +920,7 @@ nav {
     font-size: 1.4em;
     line-height: 1.5em;
     margin-left: 20px;
-    list-style-type: circle;
+    list-style-type: disc;
 }
 .speech-time {
   color: #fff;
