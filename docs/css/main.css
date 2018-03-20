@@ -409,6 +409,9 @@ nav.shrink {
 .speakers-list {
   margin-bottom: 30px;
 }
+.explore-sub-list {
+  margin-bottom: 30px;
+}
 .speaker-photo {
   position: absolute;
   top: 0;
@@ -912,6 +915,12 @@ nav {
     font-size: 1.4em;
     line-height: 1.5em;
     margin-left: 20px;
+}
+.explore-stuff {
+    font-size: 1.4em;
+    line-height: 1.5em;
+    margin-left: 20px;
+    list-style-type: circle;
 }
 .speech-time {
   color: #fff;
