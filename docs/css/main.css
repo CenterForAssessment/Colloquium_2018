@@ -905,11 +905,20 @@ nav {
 .speakers-item:hover .speaker-photo .photo {
   box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.25);
 }
+.speakers-item:hover .center-photo .photo {
+  box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.25);
+}
 .explore-item:hover .explore-photo .photo {
   box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.25);
 }
-.partner-logo:hover .partner-logo .photo {
+.staff-photo-column:hover .photo {
   box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.25);
+}
+.staff-photo-column:hover .staff-photo-first-name {
+   color: black;
+}
+.staff-photo-column:hover .staff-photo-last-name {
+   color: black;
 }
 .speakers-stuff {
     font-size: 1.4em;
@@ -927,6 +936,39 @@ nav {
   background: #2b2b2b;
   border-radius: 8px;
 }
+/* =============================================================================
+
+ STAFF
+
+================================================================================ */
+
+.staff-photo-column .photo {
+  border-radius: 50%;
+  box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.15);
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -ms-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
+
+.staff-photo-column .staff-photo-last-name {
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -ms-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
+
+.staff-photo-column .staff-photo-first-name {
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -ms-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
+
+
 /* =============================================================================
    SCHEDULE
    ========================================================================== */
@@ -1016,6 +1058,9 @@ nav {
   .speaker-photo .photo {
     box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.07);
   }
+  .staff-photo-column .photo {
+    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.07);
+  }
   .explore-photo .photo {
     box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.07);
   }
@@ -1041,3 +1086,32 @@ nav {
     font-weight: 400;
     margin-right: 10px;
 }
+/* ============================================================================
+   Center Staff
+   ============================================================================ */
+
+.staff-photo-column {
+      float: left;
+      width: 80px;
+      height: 80px;
+      padding: 20px;
+}
+
+.staff-photo-first-name {
+        padding-top: 10px;
+        font-size: 17px;
+        text-align: center;
+        color: rgba(0, 0, 0, 0.4)
+}
+.staff-photo-last-name {
+        padding-top: 5px;
+        font-size: 12px;
+        text-align: center;
+        color: rgba(0, 0, 0, 0.0)
+}
+  /* Clear floats after the columns */
+.row:after {
+      content: "";
+      display: table;
+      clear: both;
+  }
