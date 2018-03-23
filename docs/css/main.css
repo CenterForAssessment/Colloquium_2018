@@ -341,6 +341,10 @@ nav.shrink {
   font-size: 1.4em;
   transition: all 0.35s ease;
 }
+.nav-link-logo-twitter {
+  font-size: 1.4em;
+  transition: all 0.35s ease;
+}
 /* =============================================================================
    HEADER
    ========================================================================== */
@@ -802,6 +806,9 @@ nav {
 .nav-link-logo {
   color: white;
 }
+.nav-link-logo-twitter {
+  color: white;
+}
 .nav-link:active,
 .nav-link:hover,
 .nav-link:focus,
@@ -809,6 +816,9 @@ nav {
 .nav-label:hover,
 .nav-link-logo:hover {
   color: #000;
+}
+.nav-link-logo-twitter:hover {
+  color: #00ACED;
 }
 .nav-brand:hover {
     background-image: url(../img/nciea_logo.png);
