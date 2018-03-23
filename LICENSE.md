@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/CenterForAssessment/Colloquium_2018/blob/master/LICENSE.md" target="_blank">
-        <img src="docs/img/CC-BY-SA.svg" width="40%"/>
+        <img src="docs/img/cc-by-sa.svg" width="40%"/>
     </a>
 </p>
 
