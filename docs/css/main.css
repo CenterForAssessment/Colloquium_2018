@@ -771,7 +771,7 @@ nav {
 }
 
 .nav-brand {
-    background-image: url(../img/nciea_logo.png);
+    background-image: url(../img/nciea_logo_white.png);
     background-repeat: no-repeat;
     background-position: center 46px;
     transition: all 0.35s;
@@ -810,7 +810,9 @@ nav {
 .nav-link-logo:hover {
   color: #000;
 }
-
+.nav-brand:hover {
+    background-image: url(../img/nciea_logo.png);
+}
 /* =============================================================================
    HEADER
    ========================================================================== */
