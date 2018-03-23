@@ -819,9 +819,15 @@ nav {
 }
 .nav-link-logo-twitter:hover {
   color: #00ACED;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;    
 }
 .nav-brand:hover {
     background-image: url(../img/nciea_logo.png);
+}
+.fa-twitter {
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
 }
 /* =============================================================================
    HEADER
