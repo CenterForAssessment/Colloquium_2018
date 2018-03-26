@@ -278,11 +278,11 @@ hr {
   position: relative;
 }
 .content {
-  padding: 50px 0;
+  padding: 40px 0;
 }
 .content section {
   padding-top: 35px;
-  padding-bottom: 10px;
+  padding-bottom: 35px;
 }
 /* =============================================================================
    BASIC STYLES
@@ -338,11 +338,16 @@ nav.shrink {
   font-size: 1.4em;
 }
 .nav-link-logo {
-  font-size: 1.4em;
+  font-size: 1.25em;
   transition: all 0.35s ease;
 }
+.footer-link-logo {
+  font-size: 1.35em;
+  transition: all 0.35s ease;
+  vertical-align: middle;
+}
 .nav-link-logo-twitter {
-  font-size: 1.4em;
+  font-size: 1.25em;
   transition: all 0.35s ease;
 }
 /* =============================================================================
@@ -411,6 +416,11 @@ nav.shrink {
   margin-bottom: 30px;
   border-bottom: 1px dashed rgba(0, 0, 0, 0.1);
 }
+.speakers-item-last {
+  position: relative;
+  min-height: 180px;
+  padding-left: 180px;
+}
 .speakers-list {
   margin-bottom: 30px;
 }
@@ -441,6 +451,9 @@ nav.shrink {
 .speakers-item p {
   font-size: 1.4em;
 }
+.speakers-item-last p {
+  font-size: 1.4em;
+}
 /* =============================================================================
    EXPLORE
    ========================================================================== */
@@ -450,6 +463,11 @@ nav.shrink {
   padding-left: 180px;
   margin-bottom: 30px;
   border-bottom: 1px dashed rgba(118, 178, 177, 0.3);
+}
+.explore-item-last {
+  position: relative;
+  min-height: 180px;
+  padding-left: 180px;
 }
 .explore-list {
   margin-bottom: 30px;
@@ -685,6 +703,10 @@ nav.shrink {
     min-height: 70px;
     padding-left: 70px;
   }
+  .speakers-item-last {
+    min-height: 70px;
+    padding-left: 70px;
+  }
   .speaker-photo {
     width: 50px;
     height: 50px;
@@ -703,6 +725,10 @@ nav.shrink {
   }
   /* explore */
   .explore-item {
+    min-height: 70px;
+    padding-left: 70px;
+  }
+  .explore-item-last {
     min-height: 70px;
     padding-left: 70px;
   }
@@ -803,6 +829,9 @@ nav {
   color: white;
   transition: all 0.35s ease;
 }
+.footer-link-logo {
+  color: white;
+}
 .nav-link-logo {
   color: white;
 }
@@ -814,7 +843,10 @@ nav {
 .nav-link:focus,
 .nav-link.current,
 .nav-label:hover,
-.nav-link-logo:hover {
+.nav-link-logo:hover,
+.footer-link-logo:hover,
+.footer-name:hover,
+.footer-name-center:hover {
   color: #000;
 }
 .nav-link-logo-twitter:hover {
@@ -829,11 +861,12 @@ nav {
    HEADER
    ========================================================================== */
 .header {
-  background-image: url('../img/sun_valley.jpg');
+  background-image: url('../img/sun_valley.png');
   background-color: #2b2b2b;
   background-repeat: no-repeat;
   background-position: center top;
   background-size: 100% auto;
+  background-position-y: -10px;
   text-align: right;
 }
 .logo-link,
@@ -892,6 +925,9 @@ nav {
 /* =============================================================================
    LOCATION
    ========================================================================== */
+.location {
+    padding-bottom: 20px;
+}
 .location-area {
   background: #e7e7e7;
   border: 1px solid #ccc;
@@ -922,10 +958,16 @@ nav {
 .speakers-item:hover .speaker-photo .photo {
   box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.25);
 }
+.speakers-item-last:hover .speaker-photo .photo {
+  box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.25);
+}
 .speakers-item:hover .center-photo .photo {
   box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.25);
 }
 .explore-item:hover .explore-photo .photo {
+  box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.25);
+}
+.explore-item-last:hover .explore-photo .photo {
   box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.25);
 }
 .staff-photo-column:hover .photo {
@@ -1133,3 +1175,49 @@ nav {
       display: table;
       clear: both;
   }
+
+
+/* ============================================================================
+   Footer
+   ============================================================================ */
+
+.footer {
+       left: 0;
+       bottom: 0;
+       width: 100%;
+       background-color: rgba(118, 178, 177, 0.8);
+       text-align: center;
+       padding-top: 20px;
+       border-top: 1px solid #888;
+       font-size: 1.4em;
+       color: white;
+       min-height: 40px;
+       transition: all 0.35s ease;
+}
+.footer-name {
+    color: white;
+    transition: all 0.35s ease;
+}
+.footer-name-center {
+    color: white;
+    transition: all 0.35s ease;
+}
+.footer-item-brand {
+  display: inline-block;
+  padding: 0 0 0 0px;
+  vertical-align: middle;
+}
+.footer-brand {
+    background-image: url(../img/nciea_logo_white.png);
+    background-repeat: no-repeat;
+    background-position: 3px;
+    transition: all 0.35s;
+    background-size: 20px;
+    padding: 15px 18px 15px 10px;
+}
+.footer-brand:hover {
+    background-image: url(../img/nciea_logo.png);
+}
+.footer-name-center:hover .footer-brand {
+    background-image: url(../img/nciea_logo.png);
+}
