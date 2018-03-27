@@ -98,7 +98,11 @@
 $(window).scroll(function(){
     if($(window).scrollTop() > 35) {
         $('nav').addClass("shrink");
+        $('.nav-brand').addClass("shrink");
+        $('.nav-label').addClass("shrink");
     } else {
         $('nav').removeClass("shrink");
+        $('.nav-brand').removeClass("shrink");
+        $('.nav-label').removeClass("shrink");
     }
 });

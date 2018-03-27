@@ -344,7 +344,6 @@ nav.shrink {
 .footer-link-logo {
   font-size: 1.35em;
   transition: all 0.35s ease;
-  vertical-align: middle;
 }
 .nav-link-logo-twitter {
   font-size: 1.25em;
@@ -809,6 +808,15 @@ nav {
     padding: 60px 0px 60px 50px;
 }
 
+.nav-brand.shrink {
+    background-image: url(../img/nciea_logo_white.png);
+    background-repeat: no-repeat;
+    background-position: center 50px;
+    transition: all 0.35s;
+    background-size: 30px;
+    padding: 60px 0px 60px 40px;
+}
+
 .nav-label {
     font-family: "Josefin Sans", sans-serif;
     font-weight: 400;
@@ -816,6 +824,16 @@ nav {
     color: white;
     vertical-align: middle;
     transition: all 0.35s ease;
+}
+
+.nav-label.shrink {
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+    color: white;
+    vertical-align: middle;
+    transition: all 0.35s ease;
+    padding-right: 54.41px;
 }
 
 .nav-menu {
@@ -843,6 +861,7 @@ nav {
 .nav-link:focus,
 .nav-link.current,
 .nav-label:hover,
+.nav-label.shrink:hover,
 .nav-link-logo:hover,
 .footer-link-logo:hover,
 .footer-name:hover,
@@ -855,6 +874,9 @@ nav {
   -webkit-text-stroke-color: white;
 }
 .nav-brand:hover {
+    background-image: url(../img/nciea_logo.png);
+}
+.nav-brand.shrink:hover {
     background-image: url(../img/nciea_logo.png);
 }
 /* =============================================================================
@@ -1187,11 +1209,11 @@ nav {
        width: 100%;
        background-color: rgba(118, 178, 177, 0.8);
        text-align: center;
-       padding-top: 20px;
+       padding-top: 10px;
+       padding-bottom: 10px;
        border-top: 1px solid #888;
        font-size: 1.4em;
        color: white;
-       min-height: 40px;
        transition: all 0.35s ease;
 }
 .footer-name {
@@ -1210,7 +1232,7 @@ nav {
 .footer-brand {
     background-image: url(../img/nciea_logo_white.png);
     background-repeat: no-repeat;
-    background-position: 3px;
+    background-position: 4px 4px;
     transition: all 0.35s;
     background-size: 20px;
     padding: 15px 18px 15px 10px;
