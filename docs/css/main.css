@@ -805,7 +805,7 @@ nav {
     background-position: center 46px;
     transition: all 0.35s;
     background-size: 38px;
-    padding: 60px 0px 60px 50px;
+    padding: 60px 0px 25px 50px;
 }
 
 .nav-brand.shrink {
@@ -814,7 +814,7 @@ nav {
     background-position: center 50px;
     transition: all 0.35s;
     background-size: 30px;
-    padding: 60px 0px 60px 40px;
+    padding: 60px 0px 20px 40px;
 }
 
 .nav-label {
