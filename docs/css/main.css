@@ -1243,3 +1243,6 @@ nav {
 .footer-name-center:hover .footer-brand {
     background-image: url(../img/nciea_logo.png);
 }
+.bottom-cc-logo {
+    vertical-align: -0.3px;
+}
