@@ -1,4 +1,4 @@
-<h3 align="center" markdown="1">Colloquium 2018: Re-imagining Assessment and Accountability in an Open Source World</h3>
+<h3 align="center" markdown="1">Colloquium 2018: Re-imagining Assessment and Accountability in an Open World</h3>
 <h3 align="center" markdown="1"><a href=https://www.limelighthotels.com/ketchum>Limelight Hotel, Ketchum/Sun Valley, Idaho</a></h3>
 <h3 align="center" markdown="1">May 23rd & 24th, 2018</h3>
 
@@ -12,7 +12,7 @@ with experts in the field, and develop a set of critical questions to be answere
 
 1. Develop an understanding of and provide a rationale for the concept of “open”
 
-    a.	Provide definitions and examples of terms such as “open source”, “open educational resources”, and “openness”.
+    a.	Provide definitions and examples of terms such as “open source”, “open educational resources”, and, more generally, “open”.
 
     b.	Describe the requirements for building the “legal infrastructure” for open educational resources.
 
@@ -26,7 +26,7 @@ with experts in the field, and develop a set of critical questions to be answere
 
     a.	Understanding barriers and challenges to transitioning from the current state of assessment and accountability to one built around open educational resources.
 
-    b.	Understanding business models related to open source and open educational resources.
+    b.	Understanding business models related to open, open source and open educational resources.
 
     c.	Planning a smooth transition between proprietary and open.
 
@@ -39,7 +39,7 @@ with experts in the field, and develop a set of critical questions to be answere
 
     b. Use [GitHub Projects](https://github.com/orgs/CenterForAssessment/projects/2) to organize tasks associated with setting up the colloquium.
 
-    c. Work with presenters so that all materials provided are open source (or help convert them) & hosted/served from this repo.
+    c. Work with presenters so that all materials provided are open (or help convert them) & hosted/served from this repo.
 
 
 ---
