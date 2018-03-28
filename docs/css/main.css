@@ -659,12 +659,13 @@ nav.shrink {
   }
   .header {
     padding: 20px 0;
+    margin-bottom: 10px;
   }
   .logo-name {
     font-size: 4em;
   }
   .tagline {
-    margin-bottom: 15px;
+    margin-bottom: 5px;
     font-size: 1.4em;
   }
   .call-action-area .price {
@@ -695,7 +696,8 @@ nav.shrink {
     padding: 0;
   }
   .content section {
-    padding-top: 50px;
+   padding-top: 15px;
+   padding-bottom: 15px;
   }
   /* speakers */
   .speakers-item {
@@ -720,7 +722,7 @@ nav.shrink {
     padding: 0;
   }
   .speakers-bio {
-    display: none;
+/* display: none; */
   }
   /* explore */
   .explore-item {
@@ -1005,12 +1007,27 @@ nav {
     font-size: 1.4em;
     line-height: 1.5em;
     margin-left: 20px;
+    list-style-type: none;
+}
+.lightbulb {
+    font-size: 1.4em;
+    color: #333;
+}
+.sun {
+    font-size: 1.4em;
+    padding-top: .1em;
+    color: #333;
 }
 .explore-stuff {
     font-size: 1.4em;
     line-height: 1.5em;
-    margin-left: 20px;
-    list-style-type: disc;
+    list-style: none outside none;
+    margin-left: 10px;
+    display: inline-flex;
+}
+.explore-stuff-description {
+    display: inline-block;
+    font-size: 15px;
 }
 .speech-time {
   color: #fff;
@@ -1132,6 +1149,7 @@ nav {
 @media only screen and (max-width: 1024px) {
   .header {
     background-size: auto 100%;
+    background-position-y: 0px;
   }
 }
 @media only screen and (max-width: 480px) {
