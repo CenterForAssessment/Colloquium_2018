@@ -738,7 +738,7 @@ nav.shrink {
     height: 50px;
   }
   .explore-bio {
-    display: none;
+/*    display: none; */
   }
 }
 @media only screen and (max-width: 321px) {
