@@ -1023,6 +1023,7 @@ nav {
     line-height: 1.5em;
     list-style: none outside none;
     margin-left: 10px;
+    margin-bottom: -10px;
     display: inline-flex;
 }
 .explore-stuff-description {
