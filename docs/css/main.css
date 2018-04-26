@@ -1018,6 +1018,13 @@ nav {
     padding-top: .1em;
     color: #333;
 }
+.comments {
+    font-size: 1.4em;
+    color: #333;
+}
+.comments:hover {
+    color: #FFA500;
+}
 .explore-stuff {
     font-size: 1.4em;
     line-height: 1.5em;
