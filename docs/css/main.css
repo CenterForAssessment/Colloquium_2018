@@ -901,6 +901,7 @@ nav {
   background-size: 100% auto;
   background-position-y: -10px;
   text-align: right;
+  background-attachment: fixed;
 }
 .logo-link,
 .tagline,
