@@ -668,8 +668,8 @@ nav.shrink {
     display: none;
   }
   .header {
-    padding: 20px 0;
     margin-bottom: 10px;
+    background-image: url(../img/sun_valley_mobile.png);
   }
   .logo-name {
     font-size: 4em;
