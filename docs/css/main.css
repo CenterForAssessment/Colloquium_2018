@@ -668,8 +668,7 @@ nav.shrink {
     display: none;
   }
   .header {
-    margin-bottom: 10px;
-    background-image: url(../img/sun_valley_mobile.png);
+    background-image: url('../img/sun_valley_mobile.png');
     background-color: #2b2b2b;
     background-repeat: no-repeat;
     background-position: center top;
