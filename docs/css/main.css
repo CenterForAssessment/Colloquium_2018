@@ -354,7 +354,7 @@ nav.shrink {
    HEADER
    ========================================================================== */
 .header {
-  padding: 100px 0 500px;
+  padding: 100px 0 525px;
   text-align: center;
 }
 .logo-name {
@@ -662,7 +662,7 @@ nav.shrink {
     margin-bottom: 50px;
   }
 }
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 680px) {
   /* nav */
   nav {
     display: none;
@@ -676,6 +676,7 @@ nav.shrink {
     background-position-y: -10px;
     text-align: right;
     background-attachment: fixed;
+    padding: 100px 0 90px;
   }
   .logo-name {
     font-size: 4em;
@@ -1171,10 +1172,14 @@ nav {
 /* =============================================================================
    Media Queries
    ========================================================================== */
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 1024px) and (min-width: 681px){
   .header {
-    background-size: auto 100%;
+    background-size: 100% auto;
     background-position-y: 0px;
+    padding: 100px 0 350px;
+  }
+  .nav-item-brand {
+      padding: 0 0 0 0px;
   }
 }
 @media only screen and (max-width: 480px) {
