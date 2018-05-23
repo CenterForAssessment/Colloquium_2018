@@ -1,0 +1,35 @@
+local_header( {
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-6-23 5:5:4",
+  "loopSlideshow" : 0,
+  "filename" : "Treviranus_Ignite_Intro",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "Treviranus_Ignite_Intro",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0.1",
+  "slideList" : [
+    "B33868AA-0CF5-4073-B1B0-3D7051E3BEEE",
+    "B88C168F-67BD-4014-A8B9-73F139EEE841",
+    "E33D6BE1-70E2-4815-A91D-79C604994EC3",
+    "A462AD7B-5C67-4BA8-B05A-485D93285000",
+    "028701C7-AB1D-4FC1-BC07-E4EF1ED1F6A0"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 1024,
+  "slideHeight" : 768,
+  "slideCount" : 5,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "HelveticaNeue-Light",
+    "HelveticaNeue-Bold",
+    "HelveticaNeue-Medium",
+    "HelveticaNeue",
+    "Helvetica"
+  ]
+} )
